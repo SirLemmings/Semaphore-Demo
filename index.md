@@ -10,6 +10,6 @@ To understand how our network design works in the backend, check out this short 
 
 <a href="https://youtu.be/UJcLXCyjUHI" target="_blank">Short Explainer.</a>
 
-<video src="https://youtu.be/UJcLXCyjUHI" controls="controls" style="max-width: 730px;">
-</video>
+<iframe width="560" height="315" src="https://youtu.be/UJcLXCyjUHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
