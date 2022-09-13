@@ -12,5 +12,6 @@ To understand how our network design works in the backend, check out this short 
 
 Here's a video demo of our current implementation:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJcLXCyjUHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you want to try the software for yourself, running this <a href="https://github.com/SirLemmings/Semaphore/raw/gh-pages/Semaphore.zip" target="_blank">demo version</a> will create a local newtork of 5 nodes on your computer. Beware of bugs!
