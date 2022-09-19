@@ -12,6 +12,6 @@ To understand how our network design works in the backend, check out this short 
 
 Here's a video demo of our current implementation:
 
-***NOTE: we are working on getting this video up. Please come back in a few days to see it***
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjo0V2Z3iJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you want to try the software for yourself, run this <a href="https://github.com/SirLemmings/Semaphore/raw/gh-pages/Semaphore.zip" target="_blank"> version</a> and follow the READ-ME instructions to test it out. We are working on a demo version that will create a local network of 5 nodes on your computer, to be released in a few days. Beware of bugs!
