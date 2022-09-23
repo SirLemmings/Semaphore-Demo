@@ -15,4 +15,4 @@ Here's a video demo of our current implementation:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjo0V2Z3iJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-If you want to try the software for yourself, run this <a href="https://github.com/SirLemmings/Semaphore/blob/gh-pages/Semaphore_Code.zip" target="_blank"> version</a> and follow the READ-ME instructions to test it out. We are working on a demo version that will create a local network of 5 nodes on your computer, to be released in a few days. Beware of bugs!
+If you want to try the software for yourself, run this <a href="https://github.com/SirLemmings/Semaphore/blob/gh-pages/semaphore_code.zip" target="_blank"> version</a> and follow the READ-ME instructions to test it out. We are working on a demo version that will create a local network of 5 nodes on your computer, to be released in a few days. Beware of bugs!
