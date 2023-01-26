@@ -2,7 +2,9 @@
 
 This is the latest demo of the Semaphore project. This page will be updated as we get closer to launching a test net that anybody can join.
  
-For those unitiated to the project, check out our landing page first:
+For those unitiated to the project, read the <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/semaphore_2_pager.pdf" target="_blank">2-pager</a>.
+
+To get the technical details, read our <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/semaphore_2_pager.pdf" target="_blank">white paper</a>.
 
 <a href="https://sirlemmings.github.io/Semaphore/" target="_blank">Semaphore Website.</a>
 
