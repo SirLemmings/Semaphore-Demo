@@ -6,8 +6,6 @@ For those unitiated to the project, read the <a href="https://github.com/SirLemm
 
 To get the technical details, read our <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore%20White%20Paper.pdf" target="_blank">white paper</a>.
 
-<a href="https://sirlemmings.github.io/Semaphore/" target="_blank">Semaphore Website.</a>
-
 To understand how our network design works in the backend, check out this short explainer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXhwmqeeuto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
