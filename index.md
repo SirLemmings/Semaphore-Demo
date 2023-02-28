@@ -18,6 +18,8 @@ Need the opposite of a TL;DR? This not-so-short whitepaper has the technical det
 
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore%20White%20Paper.pdf" target="_blank">Semaphore Whitepaper</a>.
 
+Want to try it out? Prototype implementation code can be downloaded <a href="https://github.com/SirLemmings/Semaphore-Demo/tree/main/Semaphore" target="_blank">here</a>!
+
 If you prefer videos, this short explainer gives an overview of the topics covered in the whitepaper:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXhwmqeeuto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,4 +29,4 @@ Finally, here's a basic demo of a prototype implementation:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjo0V2Z3iJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Prototype code can be downloaded <a href="https://github.com/SirLemmings/Semaphore-Demo/tree/main/Semaphore" target="_blank">here</a>!
+
