@@ -1,0 +1,12 @@
+    block header has valid chain commitment
+    block header has valid timestamp
+    block header has valid bc_root
+    blokc header has valid sig_root
+block header has valid checkpoint (if necessary)
+
+    block not empty
+    each broadcast is valid/has matching chain commitment
+    bc_body matches bc_root
+    sig_body matches sig_root
+    bc/sig ordered lexicographically by alias
+    aliases unique
