@@ -5,7 +5,7 @@ Semaphore is decentralized social media that has a chance of working.
 The fundamental problems of decentralized social networks are counterintuitive. This short writeup explains the mistakes in other projects, like email, and how Semaphore is different: 
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Current%20Decentralized%20Social%20Networks%20are%20Doomed.pdf" target="_blank">Current Decentralized Social Networks are Doomed</a>
 
-Semaphore is the first decentralized blockchain without a cryptocurrency, which enables a protocol that functions without fees. This short writeup explains how building such a system is possible and what functionality the Semaphore design enables: 
+Semaphore is the first decentralized blockchain without a cryptocurrency, which enables a protocol that functions without fees while also handling spam & personal moderation. This short writeup explains how building such a system is possible and what functionality the Semaphore design enables: 
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore-%20Possibly%20not%20Doomed.pdf" target="_blank">Semaphore: Possibly not Doomed</a>
 
 Need a TL;DR? This short writeup is a very gentle introduction to the problems of centralized social networks and how Semaphore solves those issues: 
