@@ -1,6 +1,9 @@
 # Welcome to the proof-of-concept implementation for Semaphore
 
 ## Running a node
+Dependencise can be installed by running
+
+    pip install -r requirements.txt
 
 To run a node on your local network, run node.py
 
