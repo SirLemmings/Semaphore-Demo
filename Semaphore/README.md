@@ -1,7 +1,7 @@
 # Welcome to the proof-of-concept implementation for Semaphore
 
 ## Running a node
-Dependencise can be installed by running
+Dependencise can be installed by running:
 
     pip install -r requirements.txt
 
