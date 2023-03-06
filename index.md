@@ -16,6 +16,8 @@ Need the opposite of a TL;DR? This not-so-short whitepaper has the technical det
 
 Want to try it out? Prototype implementation code can be downloaded <a href="https://github.com/SirLemmings/Semaphore-Demo/tree/main/Semaphore" target="_blank">here</a>!
 
+Sequencer based network that you can actually use is coming soon!
+
 If you prefer videos, this short explainer gives an overview of the topics covered in the whitepaper:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXhwmqeeuto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
