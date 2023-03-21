@@ -15,12 +15,12 @@ Need the opposite of a TL;DR? This not-so-short whitepaper has the technical det
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore%20White%20Paper.pdf" target="_blank">Semaphore Whitepaper</a>.
 
 Want to try it out? 
-Standalone client app can be downloaded <a href="https://github.com/SirLemmings/Semaphore_Live_Client" target="_blank">here</a>!
-Sequencer based prototype can be downloaded <a href="https://github.com/SirLemmings/Semaphore_Sequencer" target="_blank">here</a>!
+Standalone client app that connects to the live sequencer can be downloaded <a href="https://github.com/SirLemmings/Semaphore_Live_Client" target="_blank">here</a>!
+
+Sequencer-based prototype can be downloaded <a href="https://github.com/SirLemmings/Semaphore_Sequencer" target="_blank">here</a>!
 Prototype consensus implementation code can be downloaded <a href="https://github.com/SirLemmings/Semaphore-Demo/tree/main/Semaphore" target="_blank">here</a>!
 
 
-Sequencer based network that you can actually use is coming soon!
 
 If you prefer videos, this short explainer gives an overview of the topics covered in the whitepaper:
 
