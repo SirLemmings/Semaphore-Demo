@@ -1,5 +1,5 @@
 ## Semaphore
-#### Decentralized social media that has a chance of working.
+Semaphore is decentralized social media that has a chance of working.
 
 ### Literature
 The fundamental problems of decentralized social networks are counterintuitive. This short writeup explains the mistakes in other projects, like email, and how Semaphore is different: 
