@@ -1,4 +1,4 @@
- �
+ 
 ### Literature
 The fundamental problems of decentralized social networks are counterintuitive. This short writeup explains the mistakes in other projects, like email, and how Semaphore is different: 
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Current%20Decentralized%20Social%20Networks%20are%20Doomed.pdf" target="_blank">Current Decentralized Social Networks are Doomed</a>
