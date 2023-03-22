@@ -1,4 +1,4 @@
-## Literature
+### Literature
 The fundamental problems of decentralized social networks are counterintuitive. This short writeup explains the mistakes in other projects, like email, and how Semaphore is different: 
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Current%20Decentralized%20Social%20Networks%20are%20Doomed.pdf" target="_blank">Current Decentralized Social Networks are Doomed</a>
 
@@ -17,7 +17,7 @@ Need a TL;DR? This short writeup is a very gentle introduction to the problems o
 Need the opposite of a TL;DR? This not-so-short whitepaper has the technical details: 
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore%20White%20Paper.pdf" target="_blank">Semaphore Whitepaper</a>.
 
-## Code
+### Code
 Want to try it out? 
 
 Standalone client app that connects to the live sequencer can be downloaded <a href="https://github.com/SirLemmings/Semaphore_Live_Client" target="_blank">here</a>!
@@ -26,7 +26,7 @@ Sequencer-based prototype can be downloaded <a href="https://github.com/SirLemmi
 
 Prototype consensus implementation code can be downloaded <a href="https://github.com/SirLemmings/Semaphore-Demo/tree/main/Semaphore" target="_blank">here</a>!
 
-## Short Films
+### Videos
 If you prefer videos, this short explainer gives an overview of the topics covered in the whitepaper:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXhwmqeeuto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
