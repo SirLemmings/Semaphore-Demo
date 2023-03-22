@@ -1,8 +1,10 @@
-# theme: jekyll-theme-cayman
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-cayman
+github:
+  is_project_page: false
+# remote_theme: pages-themes/slate@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Semaphore]
 description: [Decentralized Socail Media with a Chance of Working]
-show_downloads: [false]
+# show_downloads: [false]
