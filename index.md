@@ -10,9 +10,9 @@ Semaphore is the first decentralized blockchain without a cryptocurrency, which 
 
 How does Semaphore compare to alternatives?
 
-<a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore%20vs%20Farcaster.pdf" target="_blank">Semaphore vs Farcaster</a>.
+<a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore%20vs%20Farcaster.pdf" target="_blank">Semaphore vs Farcaster</a>
 
-<a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore%20vs%20Lens.pdf" target="_blank">Semaphore vs Lens</a>.
+<a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Semaphore%20vs%20Lens.pdf" target="_blank">Semaphore vs Lens</a>
 
 Need a TL;DR? This short writeup is a very gentle introduction to the problems of centralized social networks and how Semaphore solves those issues: 
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/semaphore_2_pager.pdf" target="_blank">Semaphore 2-pager</a>.
