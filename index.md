@@ -28,13 +28,14 @@ Sequencer-based prototype can be downloaded <a href="https://github.com/SirLemmi
 Prototype consensus implementation code can be downloaded <a href="https://github.com/SirLemmings/Semaphore-Demo/tree/main/Semaphore" target="_blank">here</a>!
 
 ### Videos
-If you prefer videos, this short explainer gives an overview of the topics covered in the whitepaper:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tXhwmqeeuto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here's a demo of the Semaphore sequencer and client with a basic GUI:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HnzFIpm9La0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+This short explainer gives an overview of the topics covered in the whitepaper:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXhwmqeeuto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Finally, here's a basic demo of a prototype implementation:
 
