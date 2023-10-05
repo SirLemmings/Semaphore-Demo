@@ -21,9 +21,9 @@ Need the opposite of a TL;DR? This not-so-short whitepaper has the technical det
 ### Code
 Want to try it out? 
 
-Sequencer-based prototype can be downloaded <a href="https://github.com/SirLemmings/Semaphore_Sequencer" target="_blank">here</a>!
+Sequencer-based prototype can be downloaded <a href="https://github.com/SirLemmings/SemaphoreV0" target="_blank">here</a>!
 
-Prototype consensus implementation code can be downloaded <a href="https://github.com/SirLemmings/SemaphoreV0" target="_blank">here</a>!
+Prototype consensus implementation code can be downloaded <a href="https://github.com/SirLemmings/Semaphore-Demo/tree/main/Semaphore" target="_blank">here</a>!
 
 ### Videos
 
