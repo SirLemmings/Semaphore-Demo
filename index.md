@@ -1,4 +1,7 @@
 Welcome!
+### First App
+Blabber is the first app running on Semaphore with (hopefully) many more to come. Make an account! Send a Bleep! Visit <a href="https://blabber.social" target="_blank">blabber.social</a> today. It is a simple demo, but is running on the live Semaphore network. 
+
 ### Literature
 The fundamental problems of decentralized social networks are counterintuitive. This short writeup explains the mistakes in other projects, like email, and how Semaphore is different: 
 <a href="https://github.com/SirLemmings/Semaphore-Demo/blob/main/Current%20Decentralized%20Social%20Networks%20are%20Doomed.pdf" target="_blank">Current Decentralized Social Networks are Doomed</a>
